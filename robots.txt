@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://darendeadopen.com/sitemap.xml
+Host: darendeadopen.com
